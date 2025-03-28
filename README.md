@@ -1,3 +1,5 @@
+<img src="QR.PNG" WIDTH="200"height="200">
+
 # 1212
 智慧城市導論
 
